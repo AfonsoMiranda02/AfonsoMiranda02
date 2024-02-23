@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Afonso+Miranda;)](https://git.io/typing-svg)
 
-Languages and Tools:
+Languages:
 
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/c6d35fac-b913-4844-959d-d14d2a8c6061)
 
