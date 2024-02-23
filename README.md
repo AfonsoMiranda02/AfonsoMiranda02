@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Afonso+Miranda;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Afonso+Miranda;)](https://git.io/typing-svg)
 
 <!--- - 👋 Hello, my name is Afonso Miranda,
 - 👀 I’m interested in:
