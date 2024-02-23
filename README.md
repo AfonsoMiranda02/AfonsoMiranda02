@@ -1,8 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Afonso+Miranda;)](https://git.io/typing-svg)
 
-Languages:
+Tools and Languages:
 
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/c6d35fac-b913-4844-959d-d14d2a8c6061)
+![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/60f3a904-5ea1-4e1f-9c47-0d4ea59a3d7c)
+![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/54bc17b7-f1c0-44e8-bf43-a81a37c4433f)
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AfonsoMiranda02)](https://github.com/ryo-ma/github-profile-trophy)
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
