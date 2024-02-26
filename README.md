@@ -12,6 +12,7 @@ Tools and Languages:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AfonsoMiranda02)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
 <!---
 ![218791674-c52db856-24d2-429f-8867-170c365730d1](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/812ca2d0-3aed-4505-9908-612346118c3e)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
