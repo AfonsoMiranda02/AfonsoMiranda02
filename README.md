@@ -3,6 +3,7 @@
 Tools and Languages:
 
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/c6d35fac-b913-4844-959d-d14d2a8c6061)
+![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/40d0f8e3-b795-42a3-adc7-e5bbd4a72c15)
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/60f3a904-5ea1-4e1f-9c47-0d4ea59a3d7c)
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/94f5ac29-7ef9-4ff6-8ca8-2bd5e7bbc49b)
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/f3d84c92-1f79-4298-84e6-b9fb9eae3b00)
