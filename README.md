@@ -7,6 +7,8 @@ Tools and Languages:
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/94f5ac29-7ef9-4ff6-8ca8-2bd5e7bbc49b)
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/f3d84c92-1f79-4298-84e6-b9fb9eae3b00)
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/c01a2179-1c86-4f28-8409-d1f68ad8519f)
+![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/16d49529-d919-449c-916e-2b146c9a6b8f)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AfonsoMiranda02)](https://github.com/ryo-ma/github-profile-trophy)
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
