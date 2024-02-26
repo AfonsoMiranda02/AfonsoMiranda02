@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Afonso+Miranda;)](https://git.io/typing-svg)
 
-Languages:
+Tools and Languages:
 
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/c6d35fac-b913-4844-959d-d14d2a8c6061)
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/40d0f8e3-b795-42a3-adc7-e5bbd4a72c15)
@@ -9,6 +9,8 @@ Languages:
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/f3d84c92-1f79-4298-84e6-b9fb9eae3b00)
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/c01a2179-1c86-4f28-8409-d1f68ad8519f)
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/16d49529-d919-449c-916e-2b146c9a6b8f)
+![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/b9a5245a-1c93-4ce4-82c9-84cca2e0dbf8)
+![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/232b50f9-2e63-4c04-b623-4aed812963c0)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AfonsoMiranda02)](https://github.com/ryo-ma/github-profile-trophy)
