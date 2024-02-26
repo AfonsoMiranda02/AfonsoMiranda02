@@ -13,7 +13,7 @@ Tools and Languages:
 ![image](https://github.com/AfonsoMiranda02/AfonsoMiranda02/assets/136438509/232b50f9-2e63-4c04-b623-4aed812963c0)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AfonsoMiranda02)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AfonsoMiranda02=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AfonsoMiranda02&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
 <!---
